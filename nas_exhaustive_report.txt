@@ -1,0 +1,16 @@
+--- NAS Culling Report ---
+Generated: 2026-01-02 22:31:23
+Attempted combos:        0
+Planned training runs:   0
+Completed training runs: 0
+Selection metric (VAL): maximize culled fraction subject to cull accuracy >= 95.0%
+
+VAL-passing models: 0 / 0
+
+No models met the cull-accuracy requirement on VAL.
+
+TOP 20 VAL-PASSING MODELS (by VAL culled fraction):
+======================================================================
+
+SELECTED TOP-K MODELS: TEST EVALUATION (not used for selection)
+======================================================================
